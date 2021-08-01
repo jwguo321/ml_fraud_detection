@@ -18,3 +18,16 @@ This python file stores following implementation of original logistic regression
 + LightGBM
 
   Another framework to implement logistic regression with gradient boosting. 
+
+## About dataset files
+Since the size of dataset is too large(1.2GB in total), our team did not include them on the zip file.
+These files can be download from [ieee-fraud-detection](https://www.kaggle.com/c/ieee-fraud-detection/overview)
+or google drive:
+
+[train_transaction.csv](https://drive.google.com/file/d/1Recd-WkJnqvKkQICeq0EJdIAxLtYpZK3/view?usp=sharing)
+
+[train_identity.csv](https://drive.google.com/file/d/1w7cL6uwuP7fZk0IWtK_sAnA2KASn3xPm/view?usp=sharing)
+
+[test_transaction.csv](https://drive.google.com/file/d/1_vcDxwts0ANeGotvgy6azhYxvDVMeWbP/view?usp=sharing)
+
+[test_identity.csv](https://drive.google.com/file/d/1lm7J2ZzxICYefl8mB07ttPSpofSNjw3m/view?usp=sharing)
