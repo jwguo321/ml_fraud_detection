@@ -1,4 +1,7 @@
-# COMP9417 Project
+# Introduction
+
+An machine learning project [ieee-fraud-detection](https://www.kaggle.com/c/ieee-fraud-detection/overview).
+
 All codes used in the project are stored in `logistic_regression_SGD.py`, `Project-RF.py` and `Project-Logistic.py`. The corresponding .ipynb files stores the cache of running results.
 
 ## `Project-RF.py` and `Project-Logistic.py`
